@@ -73,15 +73,31 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/PRINCE-GDS/THE-PRINCE-BOT
-$ cd THE-PRINCE-BOT
+$ git clone https://github.com/Itxwasi/wasi-bot
+$ cd wasi-bot
 $ npm i 
 $ npm start
 ```
 2. Wait for the to start...
 3. Scan the QR code from the second device. (Go to WhatsApp > Linked Devices > Link a Device) 
 ---------
+### EXTRA SET-UP
+### If you don't have mangodb you can use these public dB's
 
+```
+mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=majority
+```
+```
+mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority`
+
+```
+```
+
+mongodb+srv://xIKRATOSx:xIKRATOSx@ikratosofc.g1ueru5.mongodb.net/?retryWrites=true&w=majority
+
+```
+
+### https://youtube.com/@wasitech1
 
 
 
